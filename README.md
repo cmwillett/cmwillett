@@ -1,6 +1,6 @@
 #### Hello there!
 
-[Link to The Digital Cookbook](https://gitpod.io/#github.com/cmwillett/cmwillett)
+[Link to The Digital Cookbook](https://cmwillett.github.io/TheDigitalCookbook/)
 
 <!--
 **cmwillett/cmwillett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
